@@ -50,27 +50,27 @@
     font-size: 20px;
   }
 }
-@media (min-width:992px){
+@media (min-width: 992px) {
   .team-card {
     height: 180px;
-    min-width:400px;
-    max-width:520px;
+    min-width: 400px;
+    max-width: 520px;
   }
   .team-image {
-    width:100px;
+    width: 100px;
   }
   .team-name {
     font-size: 25px;
   }
 }
-@media (min-width:1140px){
+@media (min-width: 1140px) {
   .team-card {
     height: 180px;
-    min-width:500px;
-    max-width:520px;
+    min-width: 500px;
+    max-width: 520px;
   }
   .team-image {
-    width:100px;
+    width: 100px;
   }
   .team-name {
     font-size: 25px;

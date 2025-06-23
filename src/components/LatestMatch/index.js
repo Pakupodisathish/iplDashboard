@@ -18,6 +18,7 @@ const LatestMatch = props => {
           className="team-logo"
         />
       </div>
+      <hr className="line" />
       <div className="match-other-details">
         <h1>First Innings</h1>
         <p>{latestMatchDetails.firstInnings}</p>

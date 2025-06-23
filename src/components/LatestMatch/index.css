@@ -19,11 +19,11 @@
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .match-main-details p {
-  font-size:15px;
+  font-size: 15px;
   font-weight: 900;
 }
 .match-date {
-  font-size:15px;
+  font-size: 15px;
   font-weight: 900;
 }
 .match-venue {
@@ -38,13 +38,13 @@
   width: 80px;
   height: 80px;
 }
-.line{
-  width:100%;
-  color:#475569;
+.line {
+  width: 100%;
+  color: #475569;
 }
-@media(min-width:768px){
-  .line{
-    display:none;
+@media (min-width: 768px) {
+  .line {
+    display: none;
   }
 }
 .match-other-details {
@@ -68,8 +68,8 @@
     flex-direction: row;
     justify-content: space-between;
   }
-  .match-main-details-container{
-    width:60%;
+  .match-main-details-container {
+    width: 60%;
   }
   .team-logo {
     width: 200px;

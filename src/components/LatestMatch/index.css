@@ -69,10 +69,13 @@
     justify-content: space-between;
   }
   .match-main-details-container {
-    width: 60%;
+    width: 70%;
   }
   .team-logo {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
+  }
+  .match-other-details{
+    align-items:flex-end;
   }
 }

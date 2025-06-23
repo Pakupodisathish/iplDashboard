@@ -2,6 +2,13 @@
 
 A dynamic and interactive IPL (Indian Premier League) Dashboard web application built with React.js. This project allows users to browse through a list of IPL teams and view detailed match information for each team, including their latest match and a list of recent matches.
 
+## 🌐 Live Demo
+
+You can view the live deployed application here:
+[https://pakupodisathish.github.io/iplDashboard/](https://pakupodisathish.github.io/iplDashboard/)
+
+*(Note: If you encounter issues on direct refresh of sub-routes, remember to check the URL structure with `#` due to HashRouter, or ensure `homepage` in `package.json` is correctly configured if you switch to BrowserRouter with a 404 fallback.)*
+
 ## ✨ Features
 
 * **Home Route:**
@@ -35,13 +42,6 @@ A dynamic and interactive IPL (Indian Premier League) Dashboard web application 
     * Event Listeners
     * Data Fetching & State Management
     * Camel Case Conversion (for API responses)
-
-## 🌐 Live Demo
-
-You can view the live deployed application here:
-[https://pakupodisathish.github.io/iplDashboard/](https://pakupodisathish.github.io/iplDashboard/)
-
-*(Note: If you encounter issues on direct refresh of sub-routes, remember to check the URL structure with `#` due to HashRouter, or ensure `homepage` in `package.json` is correctly configured if you switch to BrowserRouter with a 404 fallback.)*
 
 ## 📦 API Endpoints
 
